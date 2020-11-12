@@ -1,0 +1,11 @@
+haritzblanco@ubuntu:~/Desktop/3.Praktika$ wget $URL
+The name is too long, 863 chars total.
+Trying to shorten...
+New name is videoplayback?expire=1605240372&ei=1LGtX6eZMZWM0wW27qboBw&ip=46.25.28.12&id=o-AIVfTbMp92xmvDUbDTLxKZl2PFA4XwZzKDWKUuCZH04R&itag=136&aitags=133,134,135,136,160,242,243,244,247,278,394,395,396,397,398&source=youtube&requiressl=yes&mh=ow&m.
+--2020-11-12 23:06:20--  https://r4---sn-8vq54voxn25po-h5qz.googlevideo.com/videoplayback?expire=1605240372&ei=1LGtX6eZMZWM0wW27qboBw&ip=46.25.28.12&id=o-AIVfTbMp92xmvDUbDTLxKZl2PFA4XwZzKDWKUuCZH04R&itag=136&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278%2C394%2C395%2C396%2C397%2C398&source=youtube&requiressl=yes&mh=ow&mm=31%2C29&mn=sn-8vq54voxn25po-h5qz%2Csn-h5q7knel&ms=au%2Crdu&mv=m&mvi=4&pl=22&initcwndbps=552500&vprv=1&mime=video%2Fmp4&ns=wubYCbqs7ktTsih0iCbozA0F&gir=yes&clen=15659290&dur=250.600&lmt=1604519936440037&mt=1605218673&fvip=4&keepalive=yes&c=WEB&txp=5535432&n=qV0wkbJFw-Q0ZROijQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAMgdKzaGsH9djG8qMdK76VilS9R7j_mqSorXzbhXqG6CAiBYiWWeinoyc6Zi3rqlOjC8Cc5IDvlkZtSsjdnhMEUkLw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhANgzGpZmez7dzwrpAfR32GQErg6CFcVy28nPTocg_JfWAiANdY4X1uPDR12GSc-7ZWAcoTcVZxUz1wYU5dzjtsAcIw%3D%3D&ratebypass=yes
+Resolving r4---sn-8vq54voxn25po-h5qz.googlevideo.com (r4---sn-8vq54voxn25po-h5qz.googlevideo.com)... 212.145.246.15
+Connecting to r4---sn-8vq54voxn25po-h5qz.googlevideo.com (r4---sn-8vq54voxn25po-h5qz.googlevideo.com)|212.145.246.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 15659290 (15M) [video/mp4]
+Saving to: ‘videoplayback?expire=1605240372&ei=1LGtX6eZMZWM0wW27qboBw&ip=46.25.28.12&id=o-AIVfTbMp92xmvDUbDTLxKZl2PFA4XwZzKDWKUuCZH04R&itag=136&aitags=133,134,135,136,160,242,243,244,247,278,394,395,396,397,398&source=youtube&requiressl=yes&mh=ow&m’
+

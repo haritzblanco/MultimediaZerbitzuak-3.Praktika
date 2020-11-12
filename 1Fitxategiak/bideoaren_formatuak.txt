@@ -1,0 +1,26 @@
+haritzblanco@ubuntu:~/Desktop/3.Praktika$ youtube-dl -F $URL
+[youtube] TTB0FSnpKBA: Downloading webpage
+[info] Available formats for TTB0FSnpKBA:
+format code  extension  resolution note
+249          webm       audio only tiny   51k , opus @ 50k (48000Hz), 1.43MiB
+250          webm       audio only tiny   63k , opus @ 70k (48000Hz), 1.84MiB
+140          m4a        audio only tiny  130k , m4a_dash container, mp4a.40.2@128k (44100Hz), 3.87MiB
+251          webm       audio only tiny  134k , opus @160k (48000Hz), 3.93MiB
+394          mp4        256x144    144p   73k , av01.0.00M.08, 25fps, video only, 1.99MiB
+278          webm       256x144    144p   96k , webm container, vp9, 25fps, video only, 2.71MiB
+160          mp4        256x144    144p  149k , avc1.4d400c, 25fps, video only, 1.85MiB
+133          mp4        426x240    240p  150k , avc1.4d4015, 25fps, video only, 2.60MiB
+395          mp4        426x240    240p  153k , av01.0.00M.08, 25fps, video only, 3.97MiB
+242          webm       426x240    240p  216k , vp9, 25fps, video only, 4.12MiB
+134          mp4        640x360    360p  272k , avc1.4d401e, 25fps, video only, 5.05MiB
+396          mp4        640x360    360p  322k , av01.0.01M.08, 25fps, video only, 8.38MiB
+243          webm       640x360    360p  400k , vp9, 25fps, video only, 7.94MiB
+135          mp4        854x480    480p  448k , avc1.4d401e, 25fps, video only, 7.99MiB
+397          mp4        854x480    480p  587k , av01.0.04M.08, 25fps, video only, 15.51MiB
+244          webm       854x480    480p  664k , vp9, 25fps, video only, 12.49MiB
+136          mp4        1280x720   720p  768k , avc1.4d401f, 25fps, video only, 14.93MiB
+398          mp4        1280x720   720p 1122k , av01.0.05M.08, 25fps, video only, 30.36MiB
+247          webm       1280x720   720p 1269k , vp9, 25fps, video only, 23.81MiB
+18           mp4        640x360    360p  536k , avc1.42001E, 25fps, mp4a.40.2@ 96k (44100Hz), 16.04MiB
+22           mp4        1280x720   720p  629k , avc1.64001F, 25fps, mp4a.40.2@192k (44100Hz) (best)
+

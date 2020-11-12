@@ -1,0 +1,25 @@
+haritzblanco@ubuntu:~/Desktop/3.Praktika$ ffprobe $URL
+ffprobe version 4.2.4-1ubuntu0.1 Copyright (c) 2007-2020 the FFmpeg developers
+  built with gcc 9 (Ubuntu 9.3.0-10ubuntu2)
+  configuration: --prefix=/usr --extra-version=1ubuntu0.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --arch=amd64 --enable-gpl --disable-stripping --enable-avresample --disable-filter=resample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libaom --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libcodec2 --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libjack --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librsvg --enable-librubberband --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvidstab --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-lv2 --enable-omx --enable-openal --enable-opencl --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-nvenc --enable-chromaprint --enable-frei0r --enable-libx264 --enable-shared
+  libavutil      56. 31.100 / 56. 31.100
+  libavcodec     58. 54.100 / 58. 54.100
+  libavformat    58. 29.100 / 58. 29.100
+  libavdevice    58.  8.100 / 58.  8.100
+  libavfilter     7. 57.100 /  7. 57.100
+  libavresample   4.  0.  0 /  4.  0.  0
+  libswscale      5.  5.100 /  5.  5.100
+  libswresample   3.  5.100 /  3.  5.100
+  libpostproc    55.  5.100 / 55.  5.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'https://r4---sn-8vq54voxn25po-h5qz.googlevideo.com/videoplayback?expire=1605240372&ei=1LGtX6eZMZWM0wW27qboBw&ip=46.25.28.12&id=o-AIVfTbMp92xmvDUbDTLxKZl2PFA4XwZzKDWKUuCZH04R&itag=136&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278%2C394%2C395%2C396%2C397%2C398&source=youtube&requiressl=yes&mh=ow&mm=31%2C29&mn=sn-8vq54voxn25po-h5qz%2Csn-h5q7knel&ms=au%2Crdu&mv=m&mvi=4&pl=22&initcwndbps=552500&vprv=1&mime=video%2Fmp4&ns=wubYCbqs7ktTsih0iCbozA0F&gir=yes&clen=15659290&dur=250.600&lmt=1604519936440037&mt=1605218673&fvip=4&keepalive=yes&c=WEB&txp=5535432&n=qV0wkbJFw-Q0ZROijQ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAMgdKzaGsH9djG8qMdK76VilS9R7j_mqSorXzbhXqG6CAiBYiWWeinoyc6Zi3rqlOjC8Cc5IDvlkZtSsjdnhMEUkLw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhANgzGpZmez7dzwrpAfR32GQErg6CFcVy28nPTocg_JfWAiANdY4X1uPDR12GSc-7ZWAcoTcVZxUz1wYU5dzjtsAcIw%3D%3D&ratebypass=yes':
+  Metadata:
+    major_brand     : dash
+    minor_version   : 0
+    compatible_brands: iso6avc1mp41
+    creation_time   : 2020-11-04T19:53:14.000000Z
+  Duration: 00:04:10.60, start: 0.000000, bitrate: 499 kb/s
+    Stream #0:0(und): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1280x720 [SAR 1:1 DAR 16:9], 14 kb/s, 25 fps, 25 tbr, 12800 tbn, 50 tbc (default)
+    Metadata:
+      creation_time   : 2020-11-04T19:53:14.000000Z
+      handler_name    : ISO Media file produced by Google Inc.
+
