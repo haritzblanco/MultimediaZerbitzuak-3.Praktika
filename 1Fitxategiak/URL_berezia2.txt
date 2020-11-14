@@ -1,0 +1,24 @@
+haritzblanco@ubuntu:~/Desktop/3.Praktika$ wget $URL
+The name is too long, 755 chars total.
+Trying to shorten...
+New name is videoplayback?expire=1605241345&ei=obWtX_fFCJWqxwKhlZjwBQ&ip=46.25.28.12&id=o-AFJ7ZA4BoKBhax_ysGHtEpf9PJaPgpHTibIAQy8Le1Dd&itag=18&source=youtube&requiressl=yes&mh=ow&mm=31,29&mn=sn-8vq54voxn25po-h5qz,sn-h5qzen7l&ms=au,rdu&mv=u&mvi=4&pl.
+--2020-11-12 23:22:42--  https://r4---sn-8vq54voxn25po-h5qz.googlevideo.com/videoplayback?expire=1605241345&ei=obWtX_fFCJWqxwKhlZjwBQ&ip=46.25.28.12&id=o-AFJ7ZA4BoKBhax_ysGHtEpf9PJaPgpHTibIAQy8Le1Dd&itag=18&source=youtube&requiressl=yes&mh=ow&mm=31%2C29&mn=sn-8vq54voxn25po-h5qz%2Csn-h5qzen7l&ms=au%2Crdu&mv=u&mvi=4&pl=22&vprv=1&mime=video%2Fmp4&ns=ZZqgHQtBSeLEJDjNCdStpUgF&gir=yes&clen=16817848&ratebypass=yes&dur=250.845&lmt=1604520277027399&mt=1605219255&fvip=4&c=WEB&txp=5530422&n=qXQTXRDFsKHKkeBAqT&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANBMc4aus4tw4bHl35ZpiYe-PowaYsLIZ9OpzvLklBtJAiAn8TzVexrA6eoQ71l3Uu_xTRFf8dOuQzuon4SS9lt6TQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AG3C_xAwRAIgLoexfTQyJTUankCJ4LvBtCptjG6DuqAbpAYLMOVPTCMCIH3gM_ZXell6W42_ioGrGXo96ogklgtd4SUM-b8v1ySw
+Resolving r4---sn-8vq54voxn25po-h5qz.googlevideo.com (r4---sn-8vq54voxn25po-h5qz.googlevideo.com)... 212.145.246.15
+Connecting to r4---sn-8vq54voxn25po-h5qz.googlevideo.com (r4---sn-8vq54voxn25po-h5qz.googlevideo.com)|212.145.246.15|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://r4---sn-h5qzen7l.googlevideo.com/videoplayback?expire=1605241345&ei=obWtX_fFCJWqxwKhlZjwBQ&ip=46.25.28.12&id=o-AFJ7ZA4BoKBhax_ysGHtEpf9PJaPgpHTibIAQy8Le1Dd&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=ZZqgHQtBSeLEJDjNCdStpUgF&gir=yes&clen=16817848&ratebypass=yes&dur=250.845&lmt=1604520277027399&fvip=4&c=WEB&txp=5530422&n=qXQTXRDFsKHKkeBAqT&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANBMc4aus4tw4bHl35ZpiYe-PowaYsLIZ9OpzvLklBtJAiAn8TzVexrA6eoQ71l3Uu_xTRFf8dOuQzuon4SS9lt6TQ%3D%3D&redirect_counter=1&cm2rm=sn-8vq54voxn25po-h5qz7z&req_id=1240cc41e715a3ee&cms_redirect=yes&mh=ow&mm=29&mn=sn-h5qzen7l&ms=rdu&mt=1605219443&mv=u&mvi=4&pl=22&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAJCAlYXrsrTaiJ-cCtUfKqJ5oM9kuv23kTcsNmdzPKLdAiEAxiX8vJDJBKlCMeObqouRFpD8GDAb2XK9CrdfqIm53Jw%3D [following]
+The name is too long, 755 chars total.
+Trying to shorten...
+New name is videoplayback?expire=1605241345&ei=obWtX_fFCJWqxwKhlZjwBQ&ip=46.25.28.12&id=o-AFJ7ZA4BoKBhax_ysGHtEpf9PJaPgpHTibIAQy8Le1Dd&itag=18&source=youtube&requiressl=yes&mh=ow&mm=31,29&mn=sn-8vq54voxn25po-h5qz,sn-h5qzen7l&ms=au,rdu&mv=u&mvi=4&pl.
+--2020-11-12 23:22:42--  https://r4---sn-h5qzen7l.googlevideo.com/videoplayback?expire=1605241345&ei=obWtX_fFCJWqxwKhlZjwBQ&ip=46.25.28.12&id=o-AFJ7ZA4BoKBhax_ysGHtEpf9PJaPgpHTibIAQy8Le1Dd&itag=18&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ns=ZZqgHQtBSeLEJDjNCdStpUgF&gir=yes&clen=16817848&ratebypass=yes&dur=250.845&lmt=1604520277027399&fvip=4&c=WEB&txp=5530422&n=qXQTXRDFsKHKkeBAqT&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANBMc4aus4tw4bHl35ZpiYe-PowaYsLIZ9OpzvLklBtJAiAn8TzVexrA6eoQ71l3Uu_xTRFf8dOuQzuon4SS9lt6TQ%3D%3D&redirect_counter=1&cm2rm=sn-8vq54voxn25po-h5qz7z&req_id=1240cc41e715a3ee&cms_redirect=yes&mh=ow&mm=29&mn=sn-h5qzen7l&ms=rdu&mt=1605219443&mv=u&mvi=4&pl=22&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAJCAlYXrsrTaiJ-cCtUfKqJ5oM9kuv23kTcsNmdzPKLdAiEAxiX8vJDJBKlCMeObqouRFpD8GDAb2XK9CrdfqIm53Jw%3D
+Resolving r4---sn-h5qzen7l.googlevideo.com (r4---sn-h5qzen7l.googlevideo.com)... 74.125.4.9, 2a00:1450:4003::9
+Connecting to r4---sn-h5qzen7l.googlevideo.com (r4---sn-h5qzen7l.googlevideo.com)|74.125.4.9|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 16817848 (16M) [video/mp4]
+Saving to: ‘videoplayback?expire=1605241345&ei=obWtX_fFCJWqxwKhlZjwBQ&ip=46.25.28.12&id=o-AFJ7ZA4BoKBhax_ysGHtEpf9PJaPgpHTibIAQy8Le1Dd&itag=18&source=youtube&requiressl=yes&mh=ow&mm=31,29&mn=sn-8vq54voxn25po-h5qz,sn-h5qzen7l&ms=au,rdu&mv=u&mvi=4&pl’
+
+videoplayback?expir 100%[===================>]  16.04M  26.3MB/s    in 0.6s    
+
+2020-11-12 23:22:43 (26.3 MB/s) - ‘videoplayback?expire=1605241345&ei=obWtX_fFCJWqxwKhlZjwBQ&ip=46.25.28.12&id=o-AFJ7ZA4BoKBhax_ysGHtEpf9PJaPgpHTibIAQy8Le1Dd&itag=18&source=youtube&requiressl=yes&mh=ow&mm=31,29&mn=sn-8vq54voxn25po-h5qz,sn-h5qzen7l&ms=au,rdu&mv=u&mvi=4&pl’ saved [16817848/16817848]
+
+
