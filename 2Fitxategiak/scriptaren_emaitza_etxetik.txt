@@ -1,0 +1,66 @@
+haritzblanco@ubuntu:~/Desktop/3.Praktika$ sh scripta.sh 
+https://www.youtube.com/watch?v=TTB0FSnpKBA&ab_channel=RTVENoticias
+https://r4---sn-8vq54voxn25po-h5qd.googlevideo.com/videoplayback?expire=1605999343&ei=j0a5X5SRCMfj1gbLmYmYBQ&ip=46.25.28.12&id=o-AJjG5DpD_rcEi77RK1d6hl1Nk3fL1lF7ajJOvKlxnyOW&itag=18&source=youtube&requiressl=yes&mh=ow&mm=31%2C29&mn=sn-8vq54voxn25po-h5qd%2Csn-h5q7knel&ms=au%2Crdu&mv=m&mvi=4&pl=22&initcwndbps=481250&vprv=1&mime=video%2Fmp4&ns=FPLvMZH-TL9r8SjvkqQe5xgF&gir=yes&clen=16817848&ratebypass=yes&dur=250.845&lmt=1604520277027399&mt=1605977558&fvip=4&c=WEB&txp=5530422&n=VZsDRIju-nd3wbYqo&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAMBdyeSAVJLirc_my63u88B8G_o9aOqm2JwJ0P3Hq3vsAiEA2yFaLOrKEZme0bot8kxi4rTyZX8hly6ung3XczoVoMs%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAI9L3zSdxQbwxKWNqbjHaUhkPeYEnI8GSnLqlOWlRwnMAiEA1kaFLyKuLFO4iqlNrDSO_KttZZkkafjJAfmesLHexVs%3D
+r4---sn-8vq54voxn25po-h5qd.googlevideo.com
+r4.sn-8vq54voxn25po-h5qd.googlevideo.com. 46.24.130.15
+46.24.130.15
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '46.24.121.0 - 46.24.147.255'
+
+% Abuse contact for '46.24.121.0 - 46.24.147.255' is 'abuse@corp.vodafone.es'
+
+inetnum:        46.24.121.0 - 46.24.147.255
+netname:        IPCOM-NET
+descr:          Infraestructura Red y Servicios IP
+descr:          VODAFONE-Broadband
+country:        ES
+admin-c:        PRC8-RIPE
+tech-c:         PRC8-RIPE
+status:         ASSIGNED PA
+mnt-by:         COMUNITEL-MNT
+created:        2016-06-14T15:38:40Z
+last-modified:  2016-06-14T15:38:40Z
+source:         RIPE
+
+role:           Planificacion RMS Comunitel
+address:        Oficina Vodafone Bouzas I (oficina Comercial Vigo)
+address:        Consorcio. Zona Franca Bouzas.
+address:        36208 Vigo Espanha
+remarks:        Grupo de Planificacion Broadband
+abuse-mailbox:  abuse@corp.vodafone.es
+admin-c:        ACG18-RIPE
+tech-c:         SRO19-RIPE
+tech-c:         RMD13-RIPE
+tech-c:         ACG18-RIPE
+tech-c:         ERP9-RIPE
+tech-c:         ISC17-RIPE
+tech-c:         RLC13-RIPE
+tech-c:         MTP58-RIPE
+nic-hdl:        PRC8-RIPE
+mnt-by:         COMUNITEL-MNT
+created:        2008-11-06T12:08:42Z
+last-modified:  2011-12-22T12:18:12Z
+source:         RIPE # Filtered
+
+% Information related to '46.24.0.0/16AS12357'
+
+route:          46.24.0.0/16
+descr:          Vodafone-BB Global PA Block
+origin:         AS12357
+mnt-by:         COMUNITEL-MNT
+created:        2010-07-21T07:24:34Z
+last-modified:  2010-07-21T07:24:34Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.98 (BLAARKOP)
+
+
+
